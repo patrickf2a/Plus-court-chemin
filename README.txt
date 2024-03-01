@@ -63,7 +63,3 @@
  - Grace au clavier on peut jouer avec la camera grâce aux touches(Z=zoomer;
    S=dezoomer,Q et D permettent de faire des rotations autour de l'axe X)
 
-################### PROBLEME RENCONTRER ##########################
-
-- Lors de la modélisation du terrain, les triangles entres les carre n'ont pas ete cree.
-Le probleme est du à la mal compréhension de openGL/3D. :(
